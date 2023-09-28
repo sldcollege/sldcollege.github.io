@@ -1,0 +1,80 @@
+td {
+	text-align: left;
+	font-family:"Times New Roman", Times, serif;
+	font-size:13px;
+	color:#67604B;
+	line-height:14px;
+}
+
+a {text-decoration:none;
+   color:#A30321; font-style:italic}
+  
+body { 	margin:0px;padding:0px; background-color:#D8CBA8}
+
+.fornnn tr td{
+	font-size:20px;
+	line-height:25px;
+}
+
+
+.menufond {
+	font-size:14px;
+	font-weight:bold;
+}
+ul {margin:0; padding:0; list-style:none}
+li {background:url(images/a.gif) center left no-repeat; margin:0 0 0 0px; padding:0 0 0 16px; line-height:17px }
+li a { font-style:normal}
+
+.head a { color:#909090; font-style:normal}
+.copy a { font-style:normal}
+.links span { font-style:italic}
+.links span a { font-style:normal}
+.welcome strong { font-size:10px; color:#FFFFFF; text-transform:uppercase}
+.scenes strong { font-size:10px; color:#4A4536; text-transform:uppercase}
+.guide span strong { font-size:10px; color:#FFFFFF; text-transform:uppercase}
+
+.our span a { color:#67604B; font-style:normal; text-decoration:underline}
+.our span a:hover {text-decoration:none}
+
+.study li {background:url(images/a2.gif) center left no-repeat; margin:0 0 0 0px; padding:0 0 0 10px; line-height:16px }
+.study li a { color:#203530; font-style:italic}
+.study li span a { color:#A30321;}
+
+
+
+
+
+.arrow_right { margin-right:8px; vertical-align:middle}
+.m { vertical-align:middle}
+
+.form { width:178px;
+		height:20px;
+		font-family:tahoma;
+		font-size:11px;
+		border-style: solid;
+		border-width: 1px;
+		border-color:#746D5B;
+		background-color:#ffffff;
+		color:#5F5F5F;
+		margin-left:0px;
+		margin-right:0px}
+		
+.textarea { width:178px;
+		height:200px;
+		font-family:tahoma;
+		font-size:11px;
+		border-style: solid;
+		border-width: 1px;
+		border-color:#746D5B;
+		background-color:#ffffff;
+		color:#5F5F5F;
+		margin-left:0px;
+		margin-right:0px}
+		
+
+a:hover {text-decoration:underline;}
+
+
+
+
+
